@@ -32,4 +32,6 @@ SLEEP_LED_ENABLE = no    # Breathing sleep LED during USB suspend
 
 SPLIT_KEYBOARD = yes       # Enables split keyboard support
 
+TAP_DANCE_ENABLE = yes
+
 DEFAULT_FOLDER = ergodash/rev1
